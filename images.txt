@@ -6,3 +6,4 @@ eclipse-temurin:17-jdk-alpine
 eclipse-temurin:8-jdk-alpine
 openjdk:17-jdk-slim
 openjdk:8-jdk-slim
+registry
